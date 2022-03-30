@@ -1,0 +1,19 @@
+created 2 folder 1) Container 2)components 3)assets 
+
+1) container ==> statefull components, that canbe functional or class component managing states
+        1)layout => layout.js
+
+
+2) components ==> stateless, presentational component or dumps , no states managed here , also canbe functional or class components
+
+3) assets ==> for media
+
+
+
+
+
+
+
+
+installations::
+     1) npm install --save prop-types
